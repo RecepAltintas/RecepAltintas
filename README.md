@@ -1,6 +1,6 @@
 # RecepAltintas
 
-Computer Engineering student at Istanbul University. C++, C#, Python. Interested in game development and systems programming.
+Computer Engineering student at Istanbul University. C++, C#, Python. Interested in AI tooling and building practical software.
 
 ## What I'm working on
 
